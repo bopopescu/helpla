@@ -1,0 +1,11 @@
+* TODO check if macbook battery works for sq
+* TODO bar sop
+* TODO check aquianas solitoon
+* TODO look at merge and insertion sort implementation
+* TODO Fix Python Bot Program
+** TODO Create a .exe file so I can run it from startup. This prevents the timelag from launching a virtual enviroment and what not
+** TODO Look into modifying parameters of Telegram Call so that It accepts <TypeOfTask> <Name> <Description> ; Deadline is no longer required
+** Look into also opening proj.org/na.org along with the date.org file
+** Python bot should also be able to send me a reminder as to what I have to do today with a legitimate breakdown. Need to make a command for that
+* TODO Chase Lana and Paul Wilt for feedback on NOC stuff
+* DONE NOC write-ups

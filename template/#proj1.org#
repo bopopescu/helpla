@@ -1,0 +1,9 @@
+*  Main To-Dos
+** TODO Create a Telegram bot to take in input and update accordingly. It should be <Type Of Input> <Description Of Input> <Deadline (Optional Parameter)>
+*** Potential Inputs : To-Dos / Review / Spanish Phrase / 
+*** Description : 
+*** Deadline should also be corrected accordingly
+
+** TODO Have a python bot that updates the file. It should first check if the file exists. If it does not, it will create the file and then add the To-Do
+
+

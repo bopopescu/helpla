@@ -1,0 +1,4 @@
+* TODO check if macbook battery works for sq
+* TODO bar sop
+* TODO check aquianas solitoon
+* TODO look at merge and insertion sort implementation
