@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/ivan/Documents/Personal/Raw_input_Telegram/virtual"
+VIRTUAL_ENV="/Users/ivanleo/Documents/test/telebot/helpla/virtual"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
